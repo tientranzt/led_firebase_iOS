@@ -1,0 +1,6 @@
+framework module Pods_led_firebase {
+  umbrella header "Pods-led_firebase-umbrella.h"
+
+  export *
+  module * { export * }
+}

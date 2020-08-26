@@ -1,0 +1,6 @@
+framework module Pods_led_firebase_led_firebaseUITests {
+  umbrella header "Pods-led_firebase-led_firebaseUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
